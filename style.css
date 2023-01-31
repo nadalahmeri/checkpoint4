@@ -1,0 +1,214 @@
+
+#title1{
+    font-size: 2.125rem;
+    color: #00b39b;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    text-align: center;
+    margin-bottom: 5%;
+
+}
+div#logotitle {
+    margin: 5% 0 5% 0;
+    justify-content: center;
+    display: flex;
+}
+.lead p {
+    margin: 0.8em 0;
+    line-height: 1.75;
+    font-weight: 400;
+}
+#firstblock{
+    /* width: 700px !important; */
+    color: white;
+    padding: 2em 2em 0;
+    border-radius: 15px;
+    background-color: #00b39b;
+    height: 300px;
+    margin-right:15px ;
+}
+
+#secondblock{
+    color: white;
+    padding: 2em 2em 0;
+    border-radius: 15px;
+    background-color: #3d83df;
+    height: 300px;
+    margin-right:15px ;
+
+}
+#thirdblock{
+    color: white;
+    padding: 2em 2em 0;
+    border-radius: 15px;
+    background-color: #1b2734;
+    height: 300px;
+  
+   
+}
+#rowblocks{
+    margin: 5% 0 5% 0;
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+   
+
+}
+.country {
+    background: none; 
+    border: currentColor;
+    border-bottom-color: white;
+    border-bottom-style: solid;
+    color: white;
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    outline: 0;
+    font-family: Roboto,Arial,sans-serif;
+    font-weight: 400;
+    letter-spacing: .04em;
+    font-size: 1.2rem;
+
+}
+#ddm{
+    margin-bottom: 15px;
+}
+.dropdown-content {
+    color: black;
+    font-family: Roboto,Arial,sans-serif;
+    font-weight: 400;
+    letter-spacing: .04em;
+    font-size: 0.8rem;
+}
+
+#globalcompany{
+    margin: 5% 0 5% 0;
+}
+
+#brands__logos1 {
+    transition: all .2s ease 0s;
+    fill: hsla(0,0%,67%,.7);
+  
+}
+#brands__logos2 {
+    transition: all .2s ease 0s;
+    fill: hsla(0,0%,67%,.7);
+  
+}
+#brands__logos3 {
+    transition: all .2s ease 0s;
+    fill: hsla(0,0%,67%,.7);
+  
+}
+#brands__logos4 {
+    transition: all .2s ease 0s;
+    fill: hsla(0,0%,67%,.7);
+  
+}
+#brands__logos5 {
+    transition: all .2s ease 0s;
+    fill: hsla(0,0%,67%,.7);
+  
+}
+#brands__logos6 img{
+  
+    transition: all .2s ease 0s;
+    filter: invert(98%) sepia(2%) saturate(0) hue-rotate(180deg) brightness(300%) contrast(0);
+    -webkit-filter: invert(98%) sepia(2%) saturate(0) hue-rotate(180deg) brightness(300%) contrast(0);
+    opacity: .55;
+  
+}
+#brands__logos7 img{
+   
+    transition: all .2s ease 0s;
+    filter: invert(98%) sepia(2%) saturate(0) hue-rotate(180deg) brightness(300%) contrast(0);
+    -webkit-filter: invert(98%) sepia(2%) saturate(0) hue-rotate(180deg) brightness(300%) contrast(0);
+    opacity: .55;
+  
+}
+#brands__logos8  {
+  
+    transition: all .2s ease 0s;
+    filter: invert(98%) sepia(2%) saturate(0) hue-rotate(180deg) brightness(300%) contrast(0);
+    -webkit-filter: invert(98%) sepia(2%) saturate(0) hue-rotate(180deg) brightness(300%) contrast(0);
+    opacity: .55;
+  
+}
+#brands__logos9 img{
+    transition: all .2s ease 0s;
+    filter: invert(98%) sepia(2%) saturate(0) hue-rotate(180deg) brightness(300%) contrast(0);
+    -webkit-filter: invert(98%) sepia(2%) saturate(0) hue-rotate(180deg) brightness(300%) contrast(0);
+    opacity: .55;
+  
+}
+#brands__logos10 img{
+   
+    transition: all .2s ease 0s;
+    filter: invert(98%) sepia(2%) saturate(0) hue-rotate(180deg) brightness(300%) contrast(0);
+    -webkit-filter: invert(98%) sepia(2%) saturate(0) hue-rotate(180deg) brightness(300%) contrast(0);
+    opacity: .55;
+  
+}
+div#brandlogo {
+    display: contents;
+}
+
+#secondpara{
+    text-align: center;
+    margin: 1.6em 0;
+}
+#masta{
+    background-color: rgb(201, 244, 238);
+    height: 1000px;
+    width: 1256px;
+    margin-left: -6.5%;
+    margin-bottom: 5%;
+padding-top: 70px;
+}
+#mastanada1{
+   /* justify-content: space-between; */
+    background-color: aliceblue;
+    /* width: 200px !important; */
+    height: 270px;
+   margin-top: 10%;
+   margin-right: 3%;
+}
+#mastanada2{
+    /* justify-content: space-between; */
+     background-color: aliceblue;
+     /* width: 300px !important; */
+     height: 270px;
+ }
+ #mastanada3{
+    /* justify-content: space-between; */
+     background-color: aliceblue;
+     /* width: 200px !important; */
+     height: 270px;
+     /* margin-top: 10%; */
+    margin-right: 3%;
+   
+ }
+ #mastanada4{
+     justify-content: space-between;
+      background-color: aliceblue;
+      /* width: 300px !important; */
+      height: 270px;
+      /* margin-top: 10%; */
+       /* margin-bottom: -10px; */
+  }
+ 
+  .brands h3 {
+    font-size: 1em;
+    color: #00b39b !important;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 200;
+}
+.title2 {
+    font-size: 1.25rem;
+    color: #00b39b;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    text-align: center;
+    margin-bottom: 5%;
+
+}
